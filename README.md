@@ -12,3 +12,6 @@ After learning how to create simple websites using Bootstrap as a foundation, I 
 - Not currently dockerized but hey, might be fun to do in the near future. Then I could manage the deployment with kubernetes. How overkill is that!?
 - Tons of cool projects
 - Info about my jobs that's not protected by NDA or other legally binding agreements
+
+## Why I made this a git repo?
+Because I believe in maximum code reuse? Sure, we can go with that (I actually very much believe in maximum code reuse!). But really, I find it is way easier to develop websites on hosted instances when you can work on your repo locally, commit changes, and pull those changes on the live site. Plus, it makes it really easy to create a development-production environment in the future for testing prior to pushing changes to the live site. 
