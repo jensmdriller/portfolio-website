@@ -1,8 +1,6 @@
 # portfolio-website - [jensmdriller.com](http://jensmdriller.com)
 A Bootstrap 4 based website hosting information about my professional experience, skills, and past projects. 
 
-**NOTE - SITE IS NOT LIVE YET**
-
 ## Overview:
 I wanted to create a website showcasing my skills, projects, and positions I've held. If my abilities match a position you have been looking to fill, feel free to reach out to me directly. I am always eager to learn about new opportunities in tech (software and/or hardware) or biotech.
 
